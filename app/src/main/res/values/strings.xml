@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Store</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secret_key">\$2b\$10$ldwbG.B/2hNRvS2dzXDxoO5P87sYGwoE02SliZIh.8vlvsSctGqF2</string>
+    <string name="tab_text_1">Apple</string>
+    <string name="tab_text_2">Ericsson</string>
+    <string name="my_store">My Store</string>
+</resources>
